@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**buliang88top/buliang88top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到 **终极导航** 的 GitHub 页面！🚀  
+这是一个专注于整理和分享优质互联网资源与工具的项目集合，让你轻松找到有用的网站、应用和开发资源。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 我目前在维护和更新 **终极导航** 项目，整合更多实用工具与资源  
+- 🌱 我正在学习前端优化、网站性能提升以及开源项目管理  
+- 👯 欢迎协作：如果你有优质资源或者导航建议，随时联系我  
+- 🤔 我希望获得关于自动化整理资源和页面美化的建议  
+- 💬 问我关于互联网资源、开发工具和网站导航的问题  
+- 📫 邮箱联系我: dizhiav@gmail.com  
+- 🌐 访问我的博客: [https://bumilu.org](https://www.bumilu.org)  
+- 😄 我的昵称: 终极导航  
+- ⚡ Fun fact: 我喜欢探索冷门工具和有趣网站，力求让每次访问都能发现新东西  
